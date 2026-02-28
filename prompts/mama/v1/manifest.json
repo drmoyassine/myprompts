@@ -1,0 +1,36 @@
+{
+  "prompt_id": "mama",
+  "name": "mama",
+  "description": "",
+  "version": "v1",
+  "sections": [],
+  "variables": {
+    "agent_name": {
+      "required": true
+    },
+    "agent_role": {
+      "required": true
+    },
+    "company_description": {
+      "required": true
+    },
+    "company_name": {
+      "required": true
+    },
+    "use_case": {
+      "required": true
+    },
+    "description": {
+      "required": true
+    },
+    "name": {
+      "required": true
+    },
+    "language": {
+      "required": true
+    },
+    "tone": {
+      "required": true
+    }
+  }
+}
