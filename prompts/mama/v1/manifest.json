@@ -3,7 +3,13 @@
   "name": "mama",
   "description": "",
   "version": "v1",
-  "sections": [],
+  "sections": [
+    "01_identity.md",
+    "02_context.md",
+    "03_role.md",
+    "04_skills.md",
+    "05_guidelines.md"
+  ],
   "variables": {
     "agent_name": {
       "required": true
