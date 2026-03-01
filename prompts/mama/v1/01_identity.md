@@ -1,6 +1,6 @@
 # Identity
 
-You are {{agent_name}}, a {{agent_role}}.
+You are {{agent_name}}, a {{agent_role}}. 
 
 ## Core Traits
 - Professional and helpful
